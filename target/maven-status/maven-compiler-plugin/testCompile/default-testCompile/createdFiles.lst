@@ -1,3 +1,4 @@
-fr\mochizuki\AppTest.class
 fr\mochizuki\entity\StudentTest.class
+fr\mochizuki\AppTest.class
 fr\mochizuki\dao\DatabaseConnectionTest.class
+fr\mochizuki\dao\StudentDAOTest.class

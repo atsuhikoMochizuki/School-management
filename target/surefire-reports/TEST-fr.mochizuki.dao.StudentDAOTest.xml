@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="fr.mochizuki.dao.DatabaseConnectionTest" time="2.312" tests="2" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="fr.mochizuki.dao.StudentDAOTest" time="0.136" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="21"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -58,6 +58,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="65.0"/>
   </properties>
-  <testcase name="getInstance_should_connectMySQL_withoutException" classname="fr.mochizuki.dao.DatabaseConnectionTest" time="2.303"/>
-  <testcase name="getProperty_should_recognizeDatabaseProperties" classname="fr.mochizuki.dao.DatabaseConnectionTest" time="0"/>
+  <testcase name="create_should_returnAttemptedStudent" classname="fr.mochizuki.dao.StudentDAOTest" time="0.048"/>
 </testsuite>
