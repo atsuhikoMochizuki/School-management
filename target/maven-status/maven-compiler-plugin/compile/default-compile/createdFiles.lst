@@ -1,0 +1,5 @@
+fr\mochizuki\dao\DatabaseConnection.class
+fr\mochizuki\dao\StudentDAO.class
+fr\mochizuki\dao\DAO.class
+fr\mochizuki\App.class
+fr\mochizuki\entity\Student.class
